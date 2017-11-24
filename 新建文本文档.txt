@@ -1,0 +1,143 @@
+http://192.168.10.28:8080/qytx-oa-mysql/logined/record/listAjax.action?_clientType=wap&iDisplayLength=3&iDisplayStart=0&treeType=2&userId=1
+
+
+
+
+{"iTotalDisplayRecords":6,"iTotalRecords":6,"aaData":[{"id":161,"groupName":"院办公室","phone":"13623853827","politicsFace":"","sex":0,"num":1,"nationality":"","identityNo":"","job":"","userName":"牛瑞玲","birthDay":"","nativityPlace":""},{"id":160,"groupName":"技术科","phone":"13523555331","politicsFace":"","sex":1,"num":2,"nationality":"","identityNo":"","job":"","userName":"高培根","birthDay":"","nativityPlace":""},{"id":152,"groupName":"--","phone":"13838196113","politicsFace":"","sex":1,"num":3,"nationality":"","identityNo":"","job":"","userName":"吴胜光","birthDay":"","nativityPlace":""}]}
+
+
+ {"iTotalDisplayRecords":6,"iTotalRecords":6,"aaData":[{"id":161,"groupName":"院办公室","phone":"13623853827","politicsFace":"","sex":0,"num":1,"nationality":"","identityNo":"","job":"","userName":"牛瑞玲","birthDay":"","nativityPlace":""},{"id":160,"groupName":"技术科","phone":"13523555331","politicsFace":"","sex":1,"num":2,"nationality":"","identityNo":"","job":"","userName":"高培根","birthDay":"","nativityPlace":""}]}
+
+
+ {"iTotalDisplayRecords":6,"iTotalRecords":6,"aaData":[{"id":161,"groupName":"院办公室","phone":"13623853827","politicsFace":"","sex":0,"num":1,"nationality":"","identityNo":"","job":"","userName":"牛瑞玲","birthDay":"","nativityPlace":""},{"id":160,"groupName":"技术科","phone":"13523555331","politicsFace":"","sex":1,"num":2,"nationality":"","identityNo":"","job":"","userName":"高培根","birthDay":"","nativityPlace":""}]}
+
+
+
+
+
+ {"iTotalDisplayRecords":6,"iTotalRecords":6,"aaData":[{"id":161,"groupName":"院办公室","phone":"13623853827","politicsFace":"","sex":0,"num":1,"nationality":"","identityNo":"","job":"","userName":"牛瑞玲","birthDay":"","nativityPlace":""},{"id":160,"groupName":"技术科","phone":"13523555331","politicsFace":"","sex":1,"num":2,"nationality":"","identityNo":"","job":"","userName":"高培根","birthDay":"","nativityPlace":""},{"id":152,"groupName":"--","phone":"13838196113","politicsFace":"","sex":1,"num":3,"nationality":"","identityNo":"","job":"","userName":"吴胜光","birthDay":"","nativityPlace":""},{"id":157,"groupName":"--","phone":"13500000000","politicsFace":"","sex":0,"num":4,"nationality":"","identityNo":"","job":"测试","userName":"测试人员","birthDay":"2017-01-12","nativityPlace":""},{"id":153,"groupName":"--","phone":"15987412326","politicsFace":"团员","sex":1,"num":5,"nationality":"基诺族","identityNo":"","job":"去去去","userName":"泉州新闻","birthDay":"","nativityPlace":"江西省"}]}
+
+
+
+
+ sEcho:1
+iColumns:7
+sColumns:
+iDisplayStart:0
+iDisplayLength:15
+mDataProp_0:no
+mDataProp_1:name
+mDataProp_2:project
+mDataProp_3:date
+mDataProp_4:nature
+mDataProp_5:money
+mDataProp_6:
+
+
+{"iTotalDisplayRecords":3,"iTotalRecords":3,"aaData":[{"id":142,"project":"创新奖","nature":"惩罚","no":1,"name":"侯志刚","money":"1212.00","date":"2017-09-12"},{"id":141,"project":"212","nature":"奖励","no":2,"name":"侯志刚","money":"--","date":"2017-09-12"},{"id":140,"project":"信息","nature":"奖励","no":3,"name":"侯志刚","money":"1121.00","date":"2017-09-12"}]}
+
+
+
+
+[{"school":"我去","no":1,"reterence":"外网","userName":"侯志刚","education":"初中","learnId":77,"major":"外网"}]
+
+
+
+
+[{"transferReason":"<p>3</p>","createTime":"2017-09-22","transferId":30,"transferDate":"2017-09-12","transferType":"其他","no":1,"userName":"侯志刚","effectiveDate":"2017-09-26"}]
+
+
+
+[{"title":"二位二位群","no":1,"userName":"侯志刚","accessTypeStr":"业绩考核","approveUser":"--","titleId":13,"giveDate":"--"},{"title":"外网","no":2,"userName":"侯志刚","accessTypeStr":"考试","approveUser":"--","titleId":12,"giveDate":"--"}]
+
+recordWork.userInfo.userId:11615582
+
+[{"position":"333","industryCategory":"323","id":27,"no":1,"name":"侯志刚","reterence":"333","workUnit":"23"},{"position":"二位","industryCategory":"我完全","id":26,"no":2,"name":"侯志刚","reterence":"二位","workUnit":"呃呃呃"}]
+
+
+
+
+recordRelation.userInfo.userId:11615582
+
+[{"id":27,"occupation":"--","no":1,"name":"侯志刚","relation":"姐弟","memberName":"呃呃呃","personalPhone":"13839084863"}]
+
+
+recordLeave.userInfo.userId=11615585
+
+[{"id":23,"wageCutoffDate":"2017-09-11","no":1,"name":"侯志刚","intendedToLeaveDate":"2017-09-20","leaveType":"辞职"}]
+
+
+
+[{"trainMechanism":"wswq","trainingId":21,"trainingEndDate":"2017-09-29","no":1,"trainingDate":"2017-09-28","trainMoney":"--","trainingName":"ewe"},{"trainMechanism":"wq","trainingId":20,"trainingEndDate":"2017-10-03","no":2,"trainingDate":"2017-09-12","trainMoney":111111,"trainingName":"wqw"}]
+
+
+
+
+[{"path":"record_file/09/23/2249e033-6ef7-464e-bc7d-b83d9aedda46.zip","name":"bootstrap-3.3.7.zip","size":4297547},{"path":"record_file/09/23/b266d05f-2a0a-43a4-a582-cc43b82cf706.txt","name":"新建文本文档.txt","size":4079},{"path":"record_file/09/23/204e14ad-d39a-4d87-aead-4061d4534b24.chm","name":"jquery1.7.2中文手册.chm","size":306357}]
+
+
+
+Invalid or unexpected token
+
+
+
+
+
+[{"deptId":"zxyy","deptName":"郑州市中心医院","pid":"0","level":0},{"deptId":"erke","deptName":"儿科","pid":"zxyy","level":1},{"deptId":"fuchanke","deptName":"妇产科","pid":"zxyy","level":1},{"deptId":"neike","deptName":"内科","pid":"zxyy","level":1},{"deptId":"other","deptName":"门诊其它","pid":"zxyy","level":1},{"deptId":"pfklinic","deptName":"皮肤科","pid":"zxyy","level":1},{"deptId":"waike","deptName":"外科","pid":"zxyy","level":1},{"deptId":"wuguanke","deptName":"五官科","pid":"zxyy","level":1},{"deptId":"zhenjiuke","deptName":"针灸科","pid":"zxyy","level":1},{"deptId":"zhongyike","deptName":"中医科","pid":"zxyy","level":1},{"deptId":"36B0CPN1KSG3I","deptName":"妇康妇科门诊","pid":"fuchanke","level":2},{"deptId":"3I5QMA1F1BONL","deptName":"血管外科","pid":"waike","level":2},{"deptId":"990113","deptName":"急诊","pid":"other","level":2},{"deptId":"chanke","deptName":"产科","pid":"fuchanke","level":2},{"deptId":"dianxclinic","deptName":"癫痫门诊","pid":"neike","level":2},{"deptId":"ekekclinic","deptName":"儿科门诊","pid":"erke","level":2},{"deptId":"erbhwk","deptName":"耳鼻喉外科","pid":"wuguanke","level":2},{"deptId":"fengsmynk","deptName":"风湿免疫科","pid":"neike","level":2},{"deptId":"fuke","deptName":"妇科","pid":"fuchanke","level":2},{"deptId":"gandywcwk","deptName":"肝胆胰微创外科","pid":"waike","level":2},{"deptId":"gandywk","deptName":"肝胆胰外科","pid":"waike","level":2},{"deptId":"gangcwk","deptName":"肛肠外科","pid":"waike","level":2},{"deptId":"guke","deptName":"骨科","pid":"waike","level":2},{"deptId":"hemwk","deptName":"颌面外科","pid":"wuguanke","level":2},...
+
+
+
+
+[[{"totalApptNumber":"2017-09-29  星期五","totalNumber":"2017-09-29  星期五"},{"apptNumber":0,"endTime":"09:00","id":"395744","open":1,"startTime":"08:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"10:00","id":"395745","open":1,"startTime":"09:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"11:00","id":"395746","open":1,"startTime":"10:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"12:00","id":"395747","open":1,"startTime":"11:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"16:00","id":"395748","open":1,"startTime":"15:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"17:00","id":"395749","open":1,"startTime":"16:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"18:00","id":"395750","open":1,"startTime":"17:00","status":0,"totalApptNumber":"0","totalNumber":"0"}],[{"totalApptNumber":"2017-09-30  星期六","totalNumber":"2017-09-30  星期六"},{"apptNumber":0,"endTime":"09:00","id":"395751","open":1,"startTime":"08:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"10:00","id":"395752","open":1,"startTime":"09:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"11:00","id":"395753","open":1,"startTime":"10:00","status":0,"totalApptNumber":"0","totalNumber":"0"},{"apptNumber":0,"endTime":"12:00","id":"395754","open":1,"startTime":"11:00","status":0,"totalApptNumber":"0","totalNumber":"0"},...
+
+
+
+
+
+
+{"isForkGroup":2,"list":[{"groupState":0,"grade":0,"isForkGroup":2,"groupId":2,"groupName":"省12333","groupType":1,"parentId":0,"orderIndex":1,"companyId":1,"isDelete":0,"path":"2","userId":1},{"groupState":0,"grade":0,"isForkGroup":3,"groupId":3,"groupName":"郑州","groupType":1,"parentId":0,"orderIndex":2,"companyId":1,"isDelete":0,"path":"3","userId":1},{"groupState":0,"grade":0,"isForkGroup":4,"groupId":4,"groupName":"安阳","groupType":1,"parentId":0,"orderIndex":3,"companyId":1,"isDelete":0,"path":"4","userId":1},{"groupState":0,"grade":0,"isForkGroup":5,"groupId":5,"groupName":"新乡","groupType":1,"parentId":0,"orderIndex":4,"companyId":1,"isDelete":0,"path":"5","userId":1},{"groupState":0,"grade":0,"isForkGroup":6,"groupId":6,"groupName":"许昌","groupType":1,"parentId":0,"orderIndex":5,"companyId":1,"isDelete":0,"path":"6","userId":1},{"groupState":0,"grade":0,"isForkGroup":7,"groupId":7,"groupName":"平顶山","groupType":1,"parentId":0,"orderIndex":6,"companyId":1,"isDelete":0,"path":"7","userId":1},{"groupState":0,"grade":0,"isForkGroup":8,"groupId":8,"groupName":"信阳","groupType":1,"parentId":0,"orderIndex":7,"companyId":1,"isDelete":0,"path":"8","userId":1},{"groupState":0,"grade":0,"isForkGroup":9,"groupId":9,"groupName":"南阳","groupType":1,"parentId":0,"orderIndex":8,"companyId":1,"isDelete":0,"path":"9","userId":1},{"groupState":0,"grade":0,"isForkGroup":10,"groupId":10,"groupName":"开封","groupType":1,"parentId":0,"orderIndex":9,"companyId":1,"isDelete":0,"path":"10","userId":1},{"groupState":0,"grade":0,"isForkGroup":11,"groupId":11,"groupName":"洛阳","groupType":1,"parentId":0,"orderIndex":10,"companyId":1,"isDelete":0,"path":"11","userId":1},{"groupState":0,"grade":0,"isForkGroup":12,"groupId":12,"groupName":"商丘","groupType":1,"parentId":...
+
+
+
+
+{"groupState":0,"grade":0,"isForkGroup":2,"groupId":2,"groupName":"省12333","groupType":1,"parentId":0,"orderIndex":1,"companyId":1,"isDelete":0,"path":"2","userId":1}
+{"groupState":0,"grade":0,"isForkGroup":3,"groupId":3,"groupName":"郑州","groupType":1,"parentId":0,"orderIndex":2,"companyId":1,"isDelete":0,"path":"3","userId":1}
+
+
+
+http://114.115.133.26:8081/txzlbmc/attWap/saveRecord.action?_clientType=wap&attType=10&companyId=81085&latitude=34.802911&longitude=113.685135&memo=&outOfRange=0&position= 
+
+创新大厦&systermPowerTime=2017-10-10 08:30:26&userId=29233020
+
+
+
+http://114.115.133.26:8081/txzlbmc/attWap/saveRecord.action?_clientType=wap&attType=21&companyId=81085&latitude=34.802911&longitude=113.685135&memo=&outOfRange=0&position= 
+
+创新大厦&systermPowerTime=2017-09-28 18:43:50&userId=29233020
+
+
+
+[{"giveUpNum":0,"area":"总计","autoQueryNum":0,"callInNum":0,"acceptNum":0}]
+
+[{"giveUpNum":145267,"area":"郑州","autoQueryNum":577699,"callInNum":1132430,"acceptNum":407912},{"giveUpNum":145267,"area":"总计","autoQueryNum":577699,"callInNum":1132430,"acceptNum":407912}]
+
+
+
+
+{"iTotalDisplayRecords":70,"iTotalRecords":70,"aaData":[{"createTime":"\u0026nbsp;","phone":"\u0026nbsp;","sex":1,"groupName":"郑州","no":1,"job":"\u0026nbsp;","registerTime":"\u0026nbsp;","userState":0,"id":2,"phonePublic":"\u0026nbsp;","isDefault":0,"role":"地市管理员","userName":"郑州管理员","lastLoginTime":"2017-09-26 15:18","loginName":"zzsadmin"},{"createTime":"2015-10-15","phone":"15515656168","sex":0,"groupName":"郑州\\咨询中心","no":2,"job":"","registerTime":"2015-10-15","userState":0,"id":84,"phonePublic":1,"isDefault":1,"role":"坐席班长,地市管理员","userName":"周丽娟","lastLoginTime":"2017-01-17 08:45","loginName":"371002"},{"createTime":"2015-10-15","phone":"13673389906","sex":0,"groupName":"郑州\\咨询中心","no":3,"job":"坐席班长","registerTime":"2015-10-15","userState":0,"id":85,"phonePublic":1,"isDefault":1,"role":"坐席班长","userName":"马源蓬","lastLoginTime":"2017-01-17 14:17","loginName":"371007"},{"createTime":"2015-10-15","phone":"15981802223","sex":0,"groupName":"郑州\\咨询中心","no":4,"job":"坐席班长","registerTime":"2015-10-15","userState":0,"id":86,"phonePublic":1,"isDefault":1,"role":"坐席班长,坐席","userName":"周晨","lastLoginTime":"2017-01-17 14:44","loginName":"371008"},{"createTime":"2015-10-15","phone":"15036058950","sex":0,"groupName":"郑州\\咨询中心","no":5,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":100,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"谢静","lastLoginTime":"2017-01-17 08:12","loginName":"371009"},{"createTime":"2015-10-15","phone":"15136257005","sex":0,"groupName":"郑州\\咨询中心","no":6,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":99,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"张然","lastLoginTime":"2016-04-13 09:06","loginName":"371004"},{"createTime":"2015-10-15","phone":"13663840566","sex":0,"groupName":"郑州\\咨询中心","no":7,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":98,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"王珍","lastLoginTime":"2015-11-10 14:52","loginName":"371015"},{"createTime":"2015-10-15","phone":"13783619594","sex":0,"groupName":"郑州\\咨询中心","no":8,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":97,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"任益洋","lastLoginTime":"2016-10-08 08:42","loginName":"371034"},{"createTime":"2015-10-15","phone":"15037183812","sex":0,"groupName":"郑州\\咨询中心","no":9,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":96,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"张萌萌","lastLoginTime":"2016-09-06 17:34","loginName":"371006"},{"createTime":"2015-10-15","phone":"15939023150","sex":0,"groupName":"郑州\\咨询中心","no":10,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":95,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"马华旭","lastLoginTime":"2017-01-17 14:42","loginName":"371013"},{"createTime":"2015-10-15","phone":"15981995803","sex":0,"groupName":"郑州\\咨询中心","no":11,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":94,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"王垭洁","lastLoginTime":"\u0026nbsp;","loginName":"371036"},{"createTime":"2015-10-15","phone":"18695866128","sex":0,"groupName":"郑州\\咨询中心","no":12,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":93,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席班长,地市管理员","userName":"王婧","lastLoginTime":"2016-12-26 15:40","loginName":"371003"},{"createTime":"2015-10-15","phone":"13526898458","sex":0,"groupName":"郑州\\咨询中心","no":13,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":92,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"徐静","lastLoginTime":"2017-01-17 07:49","loginName":"371005"},{"createTime":"2015-10-15","phone":"18736087877","sex":0,"groupName":"郑州\\咨询中心","no":14,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":91,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"陈麒仰","lastLoginTime":"2016-11-11 17:23","loginName":"371010"},{"createTime":"2015-10-15","phone":"13603866834","sex":0,"groupName":"郑州\\咨询中心","no":15,"job":"\u0026nbsp;","registerTime":"2015-10-15","userState":0,"id":90,"phonePublic":"\u0026nbsp;","isDefault":1,"role":"坐席","userName":"何苗","lastLoginTime":"2017-01-17 14:09","loginName":"371035"}]}
+
+
+
+[{"giveUpNum":145267,"area":"郑州","autoQueryNum":577699,"callInNum":1132430,"acceptNum":407912},{"giveUpNum":145267,"area":"总计","autoQueryNum":577699,"callInNum":1132430,"acceptNum":407912}]
+
+
+
+
+Hibernate: /* select x from DataFilter x where x.modelClassName = ?1 and x.companyId = ?2 and x.operationType = ?3 and x.relationId in ?4 */ select datafilter0_.id as id82_, datafilter0_.company_id as company2_82_, datafilter0_.CONDITION_JPQL as CONDITION3_82_, datafilter0_.MODEL_CLASS_NAME as MODEL4_82_, datafilter0_.name as name82_, datafilter0_.OPERATION_TYPE as OPERATION6_82_, datafilter0_.RELATION_ID as RELATION7_82_ from tb_data_filter_rule datafilter0_ where datafilter0_.MODEL_CLASS_NAME=? and datafilter0_.company_id=? and datafilter0_.OPERATION_TYPE=? and (datafilter0_.RELATION_ID in (? , ? , ? , ? , ?))
+Hibernate: /* from GroupInfo x where parentId = 0 and companyId = ? and x.isDelete = :isDelete and (isForkGroup =:isForkGroup  or isForkGroup is not null ) order by x.orderIndex asc */ select groupinfo0_.group_id as group1_74_, groupinfo0_.company_id as company2_74_, groupinfo0_.Functions as Functions74_, groupinfo0_.group_area as group4_74_, groupinfo0_.group_code as group5_74_, groupinfo0_.group_name as group6_74_, groupinfo0_.group_type as group7_74_, groupinfo0_.is_delete as is8_74_, groupinfo0_.last_update_time as last9_74_, groupinfo0_.Memo as Memo74_, groupinfo0_.order_index as order11_74_, groupinfo0_.parent_id as parent12_74_, groupinfo0_.Path as Path74_, groupinfo0_.Phone as Phone74_, groupinfo0_.user_id as user15_74_, groupinfo0_.assistant_id as assistant16_74_, groupinfo0_.branch as branch74_, groupinfo0_.director_id as director18_74_, groupinfo0_.grade as grade74_, groupinfo0_.group_state as group20_74_, groupinfo0_.is_fork_group as is21_74_, groupinfo0_.public_level as public22_74_, groupinfo0_.top_change_id as top23_74_, groupinfo0_.top_director_id as top24_74_ from tb_group_info groupinfo0_ where groupinfo0_.parent_id=0 and groupinfo0_.company_id=? and groupinfo0_.is_delete=? and (groupinfo0_.is_fork_group=? or groupinfo0_.is_fork_group is not null) order by groupinfo0_.order_index asc
+select count(x) from MsiWorkload x where msiState = 1  and isForkGroup= 2 and ( beginTime >= '2012-10-01 00:00:00.0' or endTime >= '2012-10-01 00:00:00.0' ) and ( beginTime <= '2017-10-10 23:59:59.0' or endTime <= '2017-10-10 23:59:59.0' )
+Hibernate: /* select count(x) from MsiWorkload x where msiState = 1  and isForkGroup= 2 and ( beginTime >= '2012-10-01 00:00:00.0' or endTime >= '2012-10-01 00:00:00.0' ) and ( beginTime <= '2017-10-10 23:59:59.0' or endTime <= '2017-10-10 23:59:59.0' ) */ select count(msiworkloa0_.vid) as col_0_0_ from MSIWorkload msiworkloa0_ where msiworkloa0_.MSIState=1 and msiworkloa0_.is_fork_group=2 and (msiworkloa0_.BeginTime>='2012-10-01 00:00:00.0' or msiworkloa0_.EndTime>='2012-10-01 00:00:00.0') and (msiworkloa0_.BeginTime<='2017-10-10 23:59:59.0' or msiworkloa0_.EndTime<='2017-10-10 23:59:59.0')
+
+
+
+wsimport -s D:\lzh\webService\src -p wsdl2 -keep http://127.0.0.1:12345/weather2?wsdl
